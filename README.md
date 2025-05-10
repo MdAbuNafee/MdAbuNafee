@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b> Backend Heavy Full Stack Software Engineer | Distributed Systems Enthusiast</b><br>
-  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩 | Ex-Samsung 🇰🇷
+  Based in Vienna, Austria 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩 | Ex-Samsung 🇰🇷
 </p>
 
 ---
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔧 I'm a software engineer with 6+ years of experience building distributed systems in fintech and e-commerce.  
 🔍 I love designing scalable microservices, optimizing backend performance, and mentoring teams.  
-🌐 Previously at Shopee (200K+ RPS) and bKash (Alibaba Group).
+🌐 Previously at Shopee (Tencent) and bKash (Alibaba Group).
 
 ---
 
