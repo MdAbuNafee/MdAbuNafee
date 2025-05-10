@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Md Abu Nafee Ibna Zahid 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend Specialist | Distributed Systems Enthusiast</b><br>
-  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩
+  <b> Backend Heavy Full Stack Software Engineer | Distributed Systems Enthusiast</b><br>
+  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩 | Ex-Samsung &#127472 &#127479
 </p>
 
 ---
