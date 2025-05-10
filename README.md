@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b> Backend Heavy Full Stack Software Engineer | Distributed Systems Enthusiast</b><br>
-  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩 | Ex-Samsung U+1F1F0-1F1F7
+  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩 | Ex-Samsung 🇰🇷
 </p>
 
 ---
