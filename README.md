@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔧 I'm a software engineer with 6+ years of experience building distributed systems in fintech and e-commerce.  
 🔍 I love designing scalable microservices, optimizing backend performance, and mentoring teams.  
-🌐 Previously at Shopee (Tencent) and bKash (Alibaba Group).
+🌐 Previously at Shopee (Tencent), bKash (Alibaba Group) and Samsung.
 
 ---
 
