@@ -14,3 +14,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi there, I'm Md Abu Nafee Ibna Zahid 👋</h1>
+
+<p align="center">
+  <b>Software Engineer | Backend Specialist | Distributed Systems Enthusiast</b><br>
+  Based in Vienna 🇦🇹 | Ex-Shopee 🇸🇬 | Ex-bKash 🇧🇩
+</p>
+
+---
+
+## 🚀 About Me
+
+🔧 I'm a software engineer with 6+ years of experience building distributed systems in fintech and e-commerce.  
+🔍 I love designing scalable microservices, optimizing backend performance, and mentoring teams.  
+🌐 Previously at Shopee (200K+ RPS) and bKash (Alibaba Group).
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
+---
+
+## 🔨 Projects
+
+📚 [Book Management System](https://github.com/MdAbuNafee/bookManagementSystem)  
+📝 [Online Examination System](https://github.com/MdAbuNafee/Online-Examination-System)  
+🚗 [Vehicle Data AMAG](https://github.com/MdAbuNafee/VehicleData-AMAG)  
+🏁 [Competitive Programming Repo](https://github.com/MdAbuNafee/Competitive-Programming)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAbuNafee&show_icons=true&theme=github_dark&hide_title=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAbuNafee&theme=github-dark-blue&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-abu-nafee-ibna-zahid/)
+- 📬 nafeedgbhs@gmail.com
+- +43 660 6345742
