@@ -73,15 +73,8 @@ Here are some ideas to get you started:
 - +43 660 6345742
 
 
-## Skilla and Achievements
+## Badges
 
 ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 ![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 
