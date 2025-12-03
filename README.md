@@ -62,6 +62,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAbuNafee&theme=github-dark-blue&hide_border=true" width="48%"/>
 </p>
 
+
+
 ---
 
 ## 📫 Contact
@@ -69,3 +71,9 @@ Here are some ideas to get you started:
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-abu-nafee-ibna-zahid/)
 - 📬 nafeedgbhs@gmail.com
 - +43 660 6345742
+
+
+## Achievements
+
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+
