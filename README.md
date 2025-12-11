@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🔧 I'm a software engineer with 6+ years of experience building distributed systems in fintech and e-commerce.  
+🔧 I'm a software engineer with 5+ years of experience building distributed systems in fintech and e-commerce.  
 🔍 I love designing scalable microservices, optimizing backend performance, and mentoring teams.  
 🌐 Previously at Shopee (Tencent), bKash (Alibaba Group) and Samsung.
 
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ## 🔨 Projects
 
+🔭 [Asynchronous Service Communication](https://github.com/MdAbuNafee/asynchronous-service-communication)
 📚 [Book Management System](https://github.com/MdAbuNafee/bookManagementSystem)  
 📝 [Online Examination System](https://github.com/MdAbuNafee/Online-Examination-System)  
 🚗 [Vehicle Data AMAG](https://github.com/MdAbuNafee/VehicleData-AMAG)  
